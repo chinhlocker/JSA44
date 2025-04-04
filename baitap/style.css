@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    width: 500px;
+    height: 400px;
+    border: 1px solid red;
+    justify-content: space-around;
+}
+
+.line {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+}
